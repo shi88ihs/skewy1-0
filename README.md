@@ -1,3 +1,5 @@
+This is the Companion App to Silver Dog in the Browser. I uploaded that to the FireFox Adds Site already. 
+
 # Skewy - anti eavesdropping
 
 Released on F-Droid and Google Play.
